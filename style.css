@@ -1,0 +1,71 @@
+body {
+    /* border: 10px solid gray; */
+    height: 90vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.background {
+    background: url('./images/background/background.gif') no-repeat fixed center;
+    background-size: 2560px;
+    background-color: #6C6CFF;
+}
+
+.center {
+    /*border: 10px solid gray;*/
+
+    width: 73px;
+    max-height: 73px;
+    height: 50vh;
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+
+}
+
+.center_button {
+    /* border: 10px solid gray;*/
+
+    width: 73px;
+    max-height: 219px;
+    height: 50vh;
+
+    display: flex;
+    align-items: top;
+    justify-content: center;
+    position: absolute;
+}
+
+/*
+.center_smoke {
+    border: 10px solid gray;
+    height: 225px;
+    width: 83px;
+
+}
+*/
+
+.button {
+    position: absolute;
+}
+
+
+.block {
+    position: absolute;
+}
+
+#coinsGroup {
+    /*border: 10px solid gray;*/
+    height: 945px;
+    width: 1930px;
+}
+
+.coin {
+    height: 73px;
+
+}
