@@ -1,5 +1,4 @@
 body {
-    /* border: 10px solid gray; */
     height: 90vh;
 
     display: flex;
@@ -14,8 +13,6 @@ body {
 }
 
 .center {
-    /*border: 10px solid gray;*/
-
     width: 73px;
     max-height: 73px;
     height: 50vh;
@@ -29,8 +26,6 @@ body {
 }
 
 .center_button {
-    /* border: 10px solid gray;*/
-
     width: 73px;
     max-height: 219px;
     height: 50vh;
@@ -40,15 +35,6 @@ body {
     justify-content: center;
     position: absolute;
 }
-
-/*
-.center_smoke {
-    border: 10px solid gray;
-    height: 225px;
-    width: 83px;
-
-}
-*/
 
 .button {
     position: absolute;
@@ -60,7 +46,6 @@ body {
 }
 
 #coinsGroup {
-    /*border: 10px solid gray;*/
     height: 945px;
     width: 1930px;
 }
